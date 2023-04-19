@@ -1,7 +1,9 @@
 {
     'name': 'crm_notification',
+    'author': 'ERPGAP',
     'version': '16.0.1.1',
-    'category': 'layout',
+    'website': 'https://www.erpgap.com/',
+    'category': 'Sales',
     'description': "The CRM Email Notification Template Simplifier is a module designed to simplify the appearance of"
                    "CRM email notifications/email in order to avoid them being marked as spam or ending up in the "
                    "recipient's junk folder.",
@@ -15,5 +17,6 @@
     ],
     'installable': True,
     'auto_install': False,
+    'support': 'info@erpgap.com',
     'license': 'LGPL-3'
 }
